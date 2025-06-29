@@ -6,7 +6,7 @@ This is my final year project that I made for my dissertation.
 - Grad-CAM++ visualizations to understand model decisions.
 - Accuracy: **64.08%** on a held-out test set of ~21,000 images.
 - Evaluation with precision, recall, F1-score, and confusion matrix.
-## outecome 
+## Outcome 
 This is my final year project that I made for my dissertation.
 - Deep CNN (ResNet-18) trained on ~145,000 galaxy images.
 - Data augmentation and normalization for robust learning.
